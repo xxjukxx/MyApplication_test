@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContextMenu/ContextMenu.iml" filepath="$PROJECT_DIR$/ContextMenu/ContextMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Layouts/Layouts.iml" filepath="$PROJECT_DIR$/Layouts/Layouts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuAdv/MenuAdv.iml" filepath="$PROJECT_DIR$/MenuAdv/MenuAdv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication_test.iml" filepath="$PROJECT_DIR$/MyApplication_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0051_LayoutFiles/P0051_LayoutFiles.iml" filepath="$PROJECT_DIR$/P0051_LayoutFiles/P0051_LayoutFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0201_SimpleAnimation/P0201_SimpleAnimation.iml" filepath="$PROJECT_DIR$/P0201_SimpleAnimation/P0201_SimpleAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewById/ViewById.iml" filepath="$PROJECT_DIR$/ViewById/ViewById.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
     </modules>
